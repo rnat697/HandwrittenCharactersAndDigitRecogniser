@@ -1,5 +1,6 @@
 # Handwritten Character and Digit Recogniser
 Authors: Team 10 - Shou Miyamoto and Rachel Nataatmadja
+
 This is a tool that recognises handwritten digits and English letters using LeNet5 and SpinalNet as Neural Network models and EMNIST dataset. The project is to design and implement a user interface and its back-end where users can carry out the machine learning tasks with the dataset.
 
 # Instructions for Install and Run
