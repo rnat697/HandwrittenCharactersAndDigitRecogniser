@@ -1,5 +1,6 @@
 # Handwritten Character and Digit Recogniser
 Authors: Team 10 - Shou Miyamoto and Rachel Nataatmadja
+This is a tool that recognises handwritten digits and English letters using LeNet5 and SpinalNet as Neural Network models and EMNIST dataset. The project is to design and implement a user interface and its back-end where users can carry out the machine learning tasks with the dataset.
 
 # Instructions for Install and Run
 1. Use a device with windows operating system. This because we have based the GUI on windows operating systems and have been using the windows operating system to program this.
@@ -15,6 +16,8 @@ Authors: Team 10 - Shou Miyamoto and Rachel Nataatmadja
 10. Go to `project1-team_10 --> software --> main.py` to run the code. In Visual Studio Code, make sure to select `software` folder as workspace in order for class imports to work.
 
 # How to use
+<img src="ReadMeAssets/MainMenu.png" width="373" height="320" />
+
 Run main.py
 - To download EMNIST dataset, go on the toolbar and click on "File" and then "Import" which will open up a new window
   - Press the "Start" button to start downloading or "Cancel" to restart the download
@@ -95,3 +98,8 @@ Version as of 17/4/22
 
 Version as of 15/4/22
 -planning and project doc added.
+
+# References
+- LeNet5 Model: https://github.com/lychengr3x/LeNet-5-Implementation-Using-Pytorch/blob/master/LeNet-5%20Implementation%20Using%20Pytorch.ipynb
+- SpinalNet Model: https://github.com/dipuk0506/SpinalNet/blob/master/MNIST/SpinalNet_EMNIST_Digits.py
+- EMNIST: https://www.nist.gov/itl/products-and-services/emnist-dataset
